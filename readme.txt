@@ -5,4 +5,5 @@ Git tracks changes of files.
 date:2025/10/29 YY/MM/DD.
 2025/10/29: blackbox 723a code commit.
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
